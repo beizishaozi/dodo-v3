@@ -4,7 +4,7 @@ pragma solidity 0.8.16;
 import "../lib/Types.sol";
 import "../lib/Errors.sol";
 import "../lib/InitializableOwnable.sol";
-import {ReentrancyGuard} from "@openzeppelin/contracts/security/ReentrancyGuard.sol";
+import {ReentrancyGuard} from "@openzeppelin/contracts/utils/ReentrancyGuard.sol";
 
 contract D3Storage is ReentrancyGuard, InitializableOwnable {
     Types.D3MMState internal state;
