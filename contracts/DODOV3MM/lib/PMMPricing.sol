@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 import {DecimalMath} from "contracts/DODOV3MM/lib/DecimalMath.sol";
 import {DODOMath} from "contracts/DODOV3MM/lib/DODOMath.sol";
