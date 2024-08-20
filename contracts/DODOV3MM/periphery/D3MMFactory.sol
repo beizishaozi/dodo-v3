@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 import {ID3MM} from "../intf/ID3MM.sol";
 import {ID3Maker} from "../intf/ID3Maker.sol";
