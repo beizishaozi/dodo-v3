@@ -7,3 +7,4 @@ D3Vault/=contracts/DODOV3MM/D3Vault/
 D3Pool/=contracts/DODOV3MM/D3Pool/
 periphery/=contracts/DODOV3MM/periphery/
 mock/=contracts/mock/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
