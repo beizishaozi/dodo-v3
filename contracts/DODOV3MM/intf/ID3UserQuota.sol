@@ -5,7 +5,7 @@
 
 */
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 interface ID3UserQuota {
     function getUserQuota(address user, address token) external view returns (uint256);
