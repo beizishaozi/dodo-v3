@@ -8,3 +8,4 @@ D3Pool/=contracts/DODOV3MM/D3Pool/
 periphery/=contracts/DODOV3MM/periphery/
 mock/=contracts/mock/
 @openzeppelin/contracts/=forge-lib/openzeppelin-contracts/contracts/
+@chainlink/contracts/=forge-lib/chainlink/contracts/
