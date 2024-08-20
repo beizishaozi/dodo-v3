@@ -5,7 +5,7 @@
 
 */
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 interface ID3Token {
     function init(address, address) external;
