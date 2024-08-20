@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: Unlicense
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 import "forge-std/Test.sol";
 import "contracts/DODOV3MM/lib/DODOMath.sol";
