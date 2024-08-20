@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 import {D3Trading} from "./D3Trading.sol";
 import {IFeeRateModel} from "../../intf/IFeeRateModel.sol";
