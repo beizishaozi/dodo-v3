@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 import {InitializableOwnable} from "../lib/InitializableOwnable.sol";
 import {ID3Oracle} from "../../intf/ID3Oracle.sol";
