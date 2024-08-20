@@ -5,7 +5,7 @@
 
 */
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 interface ID3Oracle {
     function getMaxReceive(address fromToken, address toToken, uint256 fromAmount) external view returns (uint256);
