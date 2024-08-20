@@ -2,7 +2,7 @@
 
 import "periphery/D3MMFactory.sol";
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 contract MockD3MMFactory is D3MMFactory {
     constructor(
