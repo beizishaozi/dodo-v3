@@ -3,7 +3,7 @@
 import "D3Pool/D3MM.sol";
 import "contracts/DODOV3MM/intf/ID3Maker.sol";
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 contract MockD3MM is D3MM {
     function updateReserve(address token) external {
