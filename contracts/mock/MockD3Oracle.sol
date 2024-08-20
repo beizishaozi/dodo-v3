@@ -5,7 +5,7 @@
 
 */
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 import {InitializableOwnable} from "../DODOV3MM/lib/InitializableOwnable.sol";
 import {ID3Oracle} from "../intf/ID3Oracle.sol";
