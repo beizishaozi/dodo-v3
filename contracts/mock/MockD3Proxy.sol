@@ -5,7 +5,7 @@
 
 */
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 import "contracts/DODOV3MM/lib/PMMRangeOrder.sol";
 import {ID3MM} from "contracts/DODOV3MM/intf/ID3MM.sol";
