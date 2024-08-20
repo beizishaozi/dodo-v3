@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: UNLICENSED
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 import {IFeeRateModel} from "../intf/IFeeRateModel.sol";
 import "../DODOV3MM/lib/InitializableOwnable.sol";
