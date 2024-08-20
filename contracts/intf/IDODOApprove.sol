@@ -5,7 +5,7 @@
 
 */
 
-pragma solidity 0.8.16;
+pragma solidity 0.8.20;
 
 interface IDODOApprove {
     function claimTokens(address token, address who, address dest, uint256 amount) external;
